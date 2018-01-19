@@ -1,5 +1,5 @@
 exclude:
-- .*/new-relic/fdsfdsfsdfds/fdsfsdfdsfdsfsd/fdsfdsfdsfdsfds/fdsfdsfdsfsdf/fdsfdsfdsfsfdse[.]js
+- .*/new-relic/fdsfdsfsdfds/fdsfsdfdsfdsfsd/fdsfdsfdsfdsfds/fdsfdsfdsfsdf/fdsfdsfdsfsfdse/fdsfdsfdsf/fdsfdsfdsfsfdsf/fdsfdsfdsfdsfdfdsfdsfds[.]js
 component_depth: 1
 languages:
 - java
