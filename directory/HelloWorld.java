@@ -148,4 +148,35 @@ public class HelloWorld {
 
           return third;
         }
+        
+        public void yo() {
+                int gigi = three + 1;
+                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+                                gigi+= 1;
+        }
+        
 }
