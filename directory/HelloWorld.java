@@ -149,7 +149,7 @@ public class HelloWorld {
           return third;
         }
         
-        public void yo() {
+        public void yo(int a, int b, int c, int d) {
                 int gigi = three + 1;
                 gigi+= 1;
                                 gigi+= 1;
