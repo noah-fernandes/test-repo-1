@@ -47,4 +47,35 @@ public class HelloWorld {
 
           return third;
         }
+        
+        public void aap(int a, int b) {
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+                third = first + second;
+        }
 }
