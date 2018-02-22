@@ -6,25 +6,7 @@ public class HelloWorld {
                 int third = first + second;
                 int third = first + second;
                 int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
-                int third = first + second;
+                       int third = first + second;
         }
         
           public int add(int first, int second) {
