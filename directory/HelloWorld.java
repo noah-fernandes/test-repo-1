@@ -33,31 +33,7 @@ public class HelloWorld {
                    try {
                   } catch(Exception e) {
                   }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
-                   try {
-                  } catch(Exception e) {
-                  }
-                  
+                              
                    try {
                   } catch(Exception e) {
                   }
