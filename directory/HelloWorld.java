@@ -2,7 +2,7 @@ package com.test;
 
 public class HelloWorld {
    
-          public int add(int first, int second, int second, int second, int second, int second, int second, int second) {
+         public int add(int first, int second, int second, int second, int second, int second, int second, int second) {
                 int third = first + second;
                  third=first + second;
                               third=first + second;
@@ -15,7 +15,48 @@ public class HelloWorld {
                 third=first + second;
                               third=first + second;
              
+                third=first +  second;
+                              third=first + second;
                 third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;   third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;   third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;   third=first + second;
+                              third=first + second;
+                     
+        }
+   
+   public int add(int first, int second, int second, int second, int second, int second, int second, int second) {
+                int third = first + second;
+                 third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+                third=first + second;
+                              third=first + second;
+             
+                third=first +  second;
                               third=first + second;
                 third=first + second;
                               third=first + second;
